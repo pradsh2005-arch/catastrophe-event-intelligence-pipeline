@@ -1,0 +1,17 @@
+# Generated data
+data/raw/*
+data/processed/*
+
+# Keep folder placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Secrets
+.env
+*.env
+
+# Windows
+desktop.ini
+
+__pycache__/
+src/__pycache__/

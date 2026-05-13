@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+feedparser
+beautifulsoup4
+python-dotenv
+spacy
+openai
+tqdm
+lxml
+streamlit
+plotly
