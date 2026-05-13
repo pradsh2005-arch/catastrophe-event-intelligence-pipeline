@@ -444,7 +444,7 @@ Possible extensions include:
 
 ---
 
-## Recruitment Relevance
+## Relevance
 
 This project demonstrates:
 
@@ -461,7 +461,7 @@ It is intended to support roles involving ILS analytics, catastrophe-risk monito
 
 ---
 
-## Interview Summary
+## Summary
 
 This project demonstrates an end-to-end catastrophe event monitoring workflow relevant to ILS analytics. It ingests public catastrophe data from USGS, GDACS and NOAA, structures heterogeneous sources into a common schema, extracts hazard and impact indicators from event narratives using regex, spaCy NLP and a local LLM, stores enriched outputs in SQLite, and visualises risk scores and ILS exposure-zone tags in a Streamlit dashboard.
 
